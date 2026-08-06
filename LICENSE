@@ -1,0 +1,17 @@
+Copyright (c) 2026 Md Molla Omar, Md Borhan Uddin, Iham Araf, Md. Hasibul Hassan Kobir, Dewan Sadia Noureen. All Rights Reserved.
+
+Project: A Multi-Dimensional Explainable Machine Learning Framework for Student Stress Analysis
+Institution: United International University (UIU)
+
+This project report, models, and all associated materials are proprietary and confidential.
+
+THE SERIOUS PART (Prohibited Actions):
+You are strictly prohibited from:
+1. Copying, distributing, publishing, or modifying this report, in whole or in part, without explicit written permission from the authors.
+2. Using this machine learning framework, code, or findings for commercial purposes without prior authorization.
+3. Plagiarizing or claiming ownership of the research work, SHAP analysis, or methodology presented in this document.
+
+THE FUNNY (BUT STILL SERIOUS) PART:
+We survived 1,100 survey samples, 12 classifiers, endless hyperparameter tuning, and countless debugging sessions of SHAP values to build this! Please be cool and do not plagiarize. If you copy this without permission, we sincerely hope your models start overfitting to noise and your test accuracy permanently drops to 0.01% with infinite NaN losses! 🤖🔥☕
+
+For permission requests, academic citations, or inquiries, please contact the authors directly.
